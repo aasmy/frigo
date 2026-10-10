@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" fill="none">
+  <rect width="320" height="280" fill="#EBD9BE"/>
+  <circle cx="142" cy="116" r="94" fill="#F1E3CF"/>
+
+  <!-- an open, bare fridge, cropped by the frame -->
+  <rect x="222" y="40" width="98" height="240" rx="12" fill="#DCCBAE"/>
+  <rect x="234" y="52" width="74" height="216" rx="9" fill="#F6EEE0"/>
+  <rect x="234" y="118" width="74" height="5" fill="#E5D9C3"/>
+  <rect x="234" y="186" width="74" height="5" fill="#E5D9C3"/>
+  <path d="M270 148l3 8 8 3-8 3-3 8-3-8-8-3 8-3Z" fill="#E5D9C3"/>
+
+  <!-- body -->
+  <path d="M26 280C26 222 63 190 126 190s100 32 100 90Z" fill="#8E9B6C"/>
+  <path d="M104 192h44l-4 16a20 20 0 0 1-36 0Z" fill="#74804F"/>
+  <path d="M112 150h28v28a14 14 0 0 1-28 0Z" fill="#BE7F52"/>
+  <ellipse cx="126" cy="118" rx="42" ry="45" fill="#DFA87F"/>
+
+  <!-- tied-back dark hair -->
+  <path d="M84 120c-6-36 16-56 42-56s48 20 42 56c-2 12-6 10-8 2-4-16-14-24-34-24s-30 8-34 24c-2 8-6 10-8-2Z" fill="#2F3B4F"/>
+  <path d="M166 112c16 4 24 20 20 38-2 10-12 8-12-2 0-14-4-26-8-36Z" fill="#2F3B4F"/>
+  <g stroke="#1E2838" stroke-width="2.2" stroke-linecap="round" opacity="0.5">
+    <path d="M100 86c6-8 16-13 26-14"/>
+    <path d="M152 88c-5-8-12-12-20-14"/>
+    <path d="M172 128c2 8 2 16 0 22"/>
+  </g>
+
+  <!-- an unconvinced face -->
+  <circle cx="110" cy="122" r="3.2" fill="#2F3B4F"/>
+  <circle cx="142" cy="122" r="3.2" fill="#2F3B4F"/>
+  <path d="M118 140c5-4 11-4 16 0" stroke="#2F3B4F" stroke-width="2.6" stroke-linecap="round"/>
+  <ellipse cx="96" cy="133" rx="8" ry="5.5" fill="#C87E57" opacity="0.5"/>
+  <ellipse cx="156" cy="133" rx="8" ry="5.5" fill="#C87E57" opacity="0.5"/>
+
+  <!-- one hand up to the chin -->
+  <path d="M66 254c-6-24 6-42 26-46" stroke="#8E9B6C" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="98" cy="200" r="15" fill="#BE7F52"/>
+  <path d="M186 258c6-22-2-38-20-44" stroke="#8E9B6C" stroke-width="30" stroke-linecap="round"/>
+
+  <!-- question mark -->
+  <path d="M182 72c0-9 7-15 15-15s15 6 15 15c0 11-13 11-13 21" stroke="#C8B79A" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="199" cy="110" r="4.5" fill="#C8B79A"/>
+</svg>

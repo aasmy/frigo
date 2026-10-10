@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" fill="none">
+  <rect width="320" height="280" fill="#C4D6C2"/>
+  <circle cx="160" cy="118" r="96" fill="#D2E0D0"/>
+
+  <!-- little celebration marks -->
+  <g stroke="#7E9A7C" stroke-width="4" stroke-linecap="round">
+    <path d="M58 92l-10-8M62 70l-4-12M40 110l-12-2"/>
+    <path d="M262 92l10-8M258 70l4-12M280 110l12-2"/>
+  </g>
+
+  <!-- body -->
+  <path d="M60 280C60 222 97 190 160 190s100 32 100 90Z" fill="#C87E57"/>
+  <path d="M138 192h44l-4 16a20 20 0 0 1-36 0Z" fill="#AA6646"/>
+  <path d="M146 150h28v28a14 14 0 0 1-28 0Z" fill="#DFA87F"/>
+  <ellipse cx="160" cy="118" rx="42" ry="45" fill="#F2CBAE"/>
+
+  <!-- pale bundled hair -->
+  <path d="M118 120c-6-36 16-56 42-56s48 20 42 56c-2 12-6 10-8 2-4-16-14-24-34-24s-30 8-34 24c-2 8-6 10-8-2Z" fill="#CBC7A6"/>
+  <circle cx="160" cy="58" r="17" fill="#CBC7A6"/>
+  <circle cx="122" cy="98" r="15" fill="#CBC7A6"/>
+  <circle cx="198" cy="98" r="15" fill="#CBC7A6"/>
+  <g stroke="#A8A383" stroke-width="2.2" stroke-linecap="round" opacity="0.75">
+    <path d="M136 86c6-8 14-12 24-12"/>
+    <path d="M184 86c-5-7-12-11-20-12"/>
+    <path d="M118 108c-2 8-2 16 0 24"/>
+    <path d="M202 108c2 8 2 16 0 24"/>
+  </g>
+
+  <!-- eyes closed in a smile -->
+  <path d="M137 124c4-6 10-6 14 0" stroke="#2F3B4F" stroke-width="3" stroke-linecap="round"/>
+  <path d="M169 124c4-6 10-6 14 0" stroke="#2F3B4F" stroke-width="3" stroke-linecap="round"/>
+  <path d="M150 136c6 7 14 7 20 0" stroke="#2F3B4F" stroke-width="2.8" stroke-linecap="round"/>
+  <ellipse cx="130" cy="133" rx="8.5" ry="6" fill="#E09B8A" opacity="0.6"/>
+  <ellipse cx="190" cy="133" rx="8.5" ry="6" fill="#E09B8A" opacity="0.6"/>
+
+  <!-- arms raised -->
+  <path d="M106 262c-22-14-32-38-28-62" stroke="#C87E57" stroke-width="30" stroke-linecap="round"/>
+  <path d="M214 262c22-14 32-38 28-62" stroke="#C87E57" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="78" cy="196" r="15" fill="#F2CBAE"/>
+  <circle cx="242" cy="196" r="15" fill="#F2CBAE"/>
+  <g stroke="#DFA87F" stroke-width="3" stroke-linecap="round">
+    <path d="M68 186v-8M78 182v-9M88 186v-8"/>
+    <path d="M232 186v-8M242 182v-9M252 186v-8"/>
+  </g>
+</svg>

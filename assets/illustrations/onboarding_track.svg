@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" fill="none">
+  <rect width="320" height="280" fill="#C9CFA4"/>
+  <circle cx="160" cy="116" r="98" fill="#D4D9B4"/>
+
+  <!-- fridge behind, cropped by the frame -->
+  <rect x="226" y="54" width="86" height="226" rx="12" fill="#B6BE8E"/>
+  <rect x="236" y="64" width="66" height="70" rx="8" fill="#DDE2C4"/>
+  <rect x="236" y="144" width="66" height="126" rx="8" fill="#DDE2C4"/>
+  <rect x="294" y="86" width="5" height="22" rx="2.5" fill="#8E9B6C"/>
+  <rect x="294" y="166" width="5" height="26" rx="2.5" fill="#8E9B6C"/>
+  <circle cx="254" cy="172" r="9" fill="#C87E57"/>
+  <circle cx="278" cy="174" r="8" fill="#4A6E8F" opacity="0.75"/>
+  <rect x="244" y="202" width="22" height="16" rx="4" fill="#D4A24C"/>
+
+  <!-- body -->
+  <path d="M46 280C46 222 83 190 146 190s100 32 100 90Z" fill="#D4A24C"/>
+  <path d="M124 192h44l-4 16a20 20 0 0 1-36 0Z" fill="#B88833"/>
+  <path d="M132 150h28v28a14 14 0 0 1-28 0Z" fill="#BE7F52"/>
+  <ellipse cx="146" cy="118" rx="42" ry="45" fill="#DFA87F"/>
+
+  <!-- long wavy hair -->
+  <path d="M104 122c-6-36 14-56 42-56s48 20 42 56c-2 12-6 10-8 2-4-16-14-24-34-24s-30 8-34 24c-2 8-6 10-8-2Z" fill="#8A5A3C"/>
+  <path d="M104 106c-14 10-18 40-12 72 2 10 12 10 12 0-2-24-2-48 0-72Z" fill="#8A5A3C"/>
+  <path d="M188 106c14 10 18 40 12 72-2 10-12 10-12 0 2-24 2-48 0-72Z" fill="#8A5A3C"/>
+  <g stroke="#6B452C" stroke-width="2.2" stroke-linecap="round" opacity="0.6">
+    <path d="M110 128c-4 16-4 32-2 46"/>
+    <path d="M186 128c4 16 4 32 2 46"/>
+    <path d="M122 84c7-8 16-12 26-13"/>
+    <path d="M170 86c-5-7-11-11-19-13"/>
+  </g>
+
+  <!-- face -->
+  <circle cx="130" cy="122" r="3.2" fill="#2F3B4F"/>
+  <circle cx="162" cy="122" r="3.2" fill="#2F3B4F"/>
+  <path d="M138 136c5 5 11 5 16 0" stroke="#2F3B4F" stroke-width="2.6" stroke-linecap="round"/>
+  <ellipse cx="116" cy="131" rx="8" ry="5.5" fill="#C87E57" opacity="0.5"/>
+  <ellipse cx="176" cy="131" rx="8" ry="5.5" fill="#C87E57" opacity="0.5"/>
+
+  <!-- arm cradling produce -->
+  <path d="M96 246c-4-22 6-38 24-44" stroke="#D4A24C" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="122" cy="200" r="14" fill="#BE7F52"/>
+  <circle cx="150" cy="216" r="22" fill="#8E9B6C"/>
+  <path d="M150 194v-8" stroke="#6E7A4F" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="186" cy="226" r="17" fill="#C87E57"/>
+  <path d="M190 252c14-4 22-14 22-28" stroke="#D4A24C" stroke-width="30" stroke-linecap="round"/>
+
+  <g stroke="#B88833" stroke-width="2.4" stroke-linecap="round" opacity="0.6">
+    <path d="M100 266c5-10 8-19 8-28"/>
+    <path d="M146 234v32"/>
+  </g>
+</svg>

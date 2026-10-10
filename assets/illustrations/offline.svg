@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" fill="none">
+  <rect width="320" height="280" fill="#C2C7CE"/>
+  <circle cx="178" cy="140" r="92" fill="#CED3D9"/>
+
+  <!-- cloud, up in the corner and clear of the head -->
+  <g fill="#AEB5BE">
+    <circle cx="58" cy="60" r="20"/>
+    <circle cx="92" cy="46" r="27"/>
+    <circle cx="126" cy="60" r="18"/>
+    <rect x="54" y="58" width="76" height="22" rx="11"/>
+  </g>
+  <path d="M52 28l84 62" stroke="#CED3D9" stroke-width="13" stroke-linecap="round"/>
+  <path d="M52 28l84 62" stroke="#7E868F" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- body, sitting lower in the frame -->
+  <path d="M78 280C78 232 115 202 178 202s100 30 100 78Z" fill="#8E9B6C"/>
+  <path d="M156 204h44l-4 16a20 20 0 0 1-36 0Z" fill="#74804F"/>
+  <path d="M164 164h28v26a14 14 0 0 1-28 0Z" fill="#DFA87F"/>
+  <ellipse cx="178" cy="134" rx="40" ry="43" fill="#F2CBAE"/>
+
+  <!-- short side-parted hair -->
+  <path d="M138 136c-6-34 16-52 40-52s46 18 40 52c-2 12-6 10-8 2-4-15-13-23-32-23s-28 8-32 23c-2 8-6 10-8-2Z" fill="#5C6B7A"/>
+  <g stroke="#45525E" stroke-width="2.2" stroke-linecap="round" opacity="0.6">
+    <path d="M154 104c6-8 15-12 24-12"/>
+    <path d="M202 106c-5-8-12-12-19-13"/>
+  </g>
+
+  <!-- a small apologetic face -->
+  <circle cx="163" cy="138" r="3" fill="#2F3B4F"/>
+  <circle cx="193" cy="138" r="3" fill="#2F3B4F"/>
+  <path d="M171 154h14" stroke="#2F3B4F" stroke-width="2.4" stroke-linecap="round"/>
+  <ellipse cx="150" cy="148" rx="7.5" ry="5" fill="#E09B8A" opacity="0.5"/>
+  <ellipse cx="206" cy="148" rx="7.5" ry="5" fill="#E09B8A" opacity="0.5"/>
+
+  <!-- shrug -->
+  <path d="M110 272c-10-18-8-36 6-46" stroke="#8E9B6C" stroke-width="28" stroke-linecap="round"/>
+  <path d="M246 272c10-18 8-36-6-46" stroke="#8E9B6C" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="120" cy="222" r="14" fill="#DFA87F"/>
+  <circle cx="236" cy="222" r="14" fill="#DFA87F"/>
+</svg>

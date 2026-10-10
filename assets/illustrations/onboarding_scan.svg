@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" fill="none">
+  <rect width="320" height="280" fill="#AFC9DE"/>
+  <circle cx="160" cy="118" r="98" fill="#BCD2E4"/>
+
+  <!-- body: cropped by the frame, shoulders wide and soft -->
+  <path d="M60 280C60 222 97 190 160 190s100 32 100 90Z" fill="#4A6E8F"/>
+  <path d="M138 192h44l-4 16a20 20 0 0 1-36 0Z" fill="#3D5C78"/>
+
+  <!-- neck -->
+  <path d="M146 150h28v28a14 14 0 0 1-28 0Z" fill="#DFA87F"/>
+
+  <!-- head -->
+  <ellipse cx="160" cy="118" rx="42" ry="45" fill="#F2CBAE"/>
+
+  <!-- hair: solid shape first, strands drawn over it -->
+  <path d="M118 120c-6-34 14-54 42-54s48 20 42 54c-2 12-6 10-8 2-4-16-14-24-34-24s-30 8-34 24c-2 8-6 10-8-2Z" fill="#2F3B4F"/>
+  <path d="M118 108c-10 6-14 22-10 38 2 8 8 6 8-2 0-12 2-24 2-36Z" fill="#2F3B4F"/>
+  <path d="M202 108c10 6 14 22 10 38-2 8-8 6-8-2 0-12-2-24-2-36Z" fill="#2F3B4F"/>
+  <g stroke="#1E2838" stroke-width="2" stroke-linecap="round" opacity="0.5">
+    <path d="M134 86c6-8 16-13 26-14"/>
+    <path d="M146 80c8-5 18-7 28-6"/>
+    <path d="M186 86c-5-7-12-11-20-13"/>
+  </g>
+
+  <!-- face -->
+  <circle cx="144" cy="122" r="3.2" fill="#2F3B4F"/>
+  <circle cx="176" cy="122" r="3.2" fill="#2F3B4F"/>
+  <path d="M152 136c5 5 11 5 16 0" stroke="#2F3B4F" stroke-width="2.6" stroke-linecap="round"/>
+  <ellipse cx="130" cy="131" rx="8" ry="5.5" fill="#E09B8A" opacity="0.55"/>
+  <ellipse cx="190" cy="131" rx="8" ry="5.5" fill="#E09B8A" opacity="0.55"/>
+
+  <!-- left arm, raised, holding the phone -->
+  <path d="M108 236c-6-26 4-44 22-50" stroke="#4A6E8F" stroke-width="30" stroke-linecap="round"/>
+  <path d="M108 236c-6-26 4-44 22-50" stroke="#3D5C78" stroke-width="30" stroke-linecap="round" opacity="0.25"/>
+  <circle cx="132" cy="190" r="14" fill="#DFA87F"/>
+  <!-- phone -->
+  <rect x="86" y="140" width="46" height="74" rx="9" transform="rotate(-10 86 140)" fill="#2F3B4F"/>
+  <rect x="92" y="148" width="34" height="56" rx="4" transform="rotate(-10 92 148)" fill="#AFC9DE"/>
+  <g transform="rotate(-10 92 148)" stroke="#F3E9DC" stroke-width="2.4" stroke-linecap="round">
+    <path d="M100 162h18M100 172h22M100 182h14"/>
+  </g>
+
+  <!-- right arm, holding the receipt -->
+  <path d="M214 240c8-24 2-42-16-50" stroke="#4A6E8F" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="200" cy="192" r="14" fill="#DFA87F"/>
+  <path d="M196 196h54v62l-9-6-9 6-9-6-9 6-9-6-9 6Z" fill="#F3E9DC"/>
+  <g stroke="#C2B49E" stroke-width="2.6" stroke-linecap="round">
+    <path d="M206 212h32M206 224h24M206 236h30"/>
+  </g>
+
+  <!-- fabric folds -->
+  <g stroke="#3D5C78" stroke-width="2.4" stroke-linecap="round" opacity="0.55">
+    <path d="M112 262c6-12 10-22 10-32"/>
+    <path d="M208 264c-5-12-8-22-8-32"/>
+    <path d="M160 232v34"/>
+  </g>
+</svg>

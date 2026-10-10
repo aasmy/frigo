@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" fill="none">
+  <rect width="320" height="280" fill="#E3C4BC"/>
+  <circle cx="160" cy="116" r="96" fill="#EBD2CB"/>
+
+  <!-- body -->
+  <path d="M46 280C46 222 83 190 146 190s100 32 100 90Z" fill="#4A6E8F"/>
+  <path d="M124 192h44l-4 16a20 20 0 0 1-36 0Z" fill="#3D5C78"/>
+  <path d="M132 150h28v28a14 14 0 0 1-28 0Z" fill="#BE7F52"/>
+  <ellipse cx="146" cy="118" rx="42" ry="45" fill="#DFA87F"/>
+
+  <!-- blonde bob -->
+  <path d="M104 122c-6-36 16-56 42-56s48 20 42 56c-2 12-6 10-8 2-4-16-14-24-34-24s-30 8-34 24c-2 8-6 10-8-2Z" fill="#E3C08A"/>
+  <path d="M104 110c-12 8-14 32-10 54 2 10 12 8 12-2-2-18-2-36-2-52Z" fill="#E3C08A"/>
+  <path d="M188 110c12 8 14 32 10 54-2 10-12 8-12-2 2-18 2-36 2-52Z" fill="#E3C08A"/>
+  <g stroke="#C4A26C" stroke-width="2.2" stroke-linecap="round" opacity="0.8">
+    <path d="M122 84c7-8 16-12 26-13"/>
+    <path d="M170 86c-5-7-11-11-19-13"/>
+    <path d="M110 130c-2 10-2 20 0 28"/>
+    <path d="M182 130c2 10 2 20 0 28"/>
+  </g>
+
+  <!-- face -->
+  <circle cx="130" cy="122" r="3.2" fill="#2F3B4F"/>
+  <circle cx="162" cy="122" r="3.2" fill="#2F3B4F"/>
+  <path d="M138 136c5 5 11 5 16 0" stroke="#2F3B4F" stroke-width="2.6" stroke-linecap="round"/>
+  <ellipse cx="116" cy="133" rx="8" ry="5.5" fill="#C87E57" opacity="0.5"/>
+  <ellipse cx="176" cy="133" rx="8" ry="5.5" fill="#C87E57" opacity="0.5"/>
+
+  <!-- arm holding an empty basket -->
+  <path d="M94 252c-4-20 4-34 20-40" stroke="#4A6E8F" stroke-width="30" stroke-linecap="round"/>
+  <path d="M190 250c14-6 22-18 20-34" stroke="#4A6E8F" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="212" cy="212" r="14" fill="#BE7F52"/>
+  <path d="M198 206v-12a16 16 0 0 1 32 0v12" stroke="#A9705A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M182 222h92l-10 50a14 14 0 0 1-14 10h-44a14 14 0 0 1-14-10Z" fill="#C87E57"/>
+  <path d="M190 238h76l-7 36a10 10 0 0 1-10 8h-42a10 10 0 0 1-10-8Z" fill="#D89470"/>
+  <rect x="176" y="214" width="104" height="14" rx="7" fill="#A9705A"/>
+</svg>

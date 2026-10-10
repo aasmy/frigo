@@ -1,0 +1,10 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/frigo_icon.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
+  background_color_ios: "#2E6BF0"
+  adaptive_icon_background: "#2E6BF0"
+  adaptive_icon_foreground: "assets/logo/frigo_icon_fg.png"
+  adaptive_icon_monochrome: "assets/logo/frigo_icon_fg.png"

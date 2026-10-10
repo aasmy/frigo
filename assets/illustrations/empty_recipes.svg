@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" fill="none">
+  <rect width="320" height="280" fill="#D5D8BE"/>
+  <circle cx="160" cy="116" r="96" fill="#E0E2CB"/>
+
+  <!-- cutlery, cropped by the frame -->
+  <g stroke="#B5BA98" stroke-width="7" stroke-linecap="round">
+    <path d="M34 60v40M22 60v18c0 6 5 11 12 11M46 60v18c0 6-5 11-12 11M34 111v110"/>
+    <path d="M286 60c-9 0-14 12-14 26s5 20 14 20M286 106v115"/>
+  </g>
+
+  <!-- empty plate -->
+  <ellipse cx="160" cy="246" rx="86" ry="28" fill="#F3E9DC"/>
+  <ellipse cx="160" cy="244" rx="62" ry="18" fill="#E2D8C8"/>
+
+  <!-- body -->
+  <path d="M60 280C60 226 97 194 160 194s100 32 100 86Z" fill="#C87E57"/>
+  <path d="M138 196h44l-4 16a20 20 0 0 1-36 0Z" fill="#AA6646"/>
+  <path d="M146 152h28v28a14 14 0 0 1-28 0Z" fill="#8A5A3C"/>
+  <ellipse cx="160" cy="118" rx="42" ry="45" fill="#BE7F52"/>
+
+  <!-- cropped rounded hair -->
+  <path d="M116 116c-4-36 18-54 44-54s48 18 44 54c-2 14-8 10-10 2-4-16-14-24-34-24s-30 8-34 24c-2 8-8 12-10-2Z" fill="#3A2A22"/>
+  <circle cx="124" cy="80" r="17" fill="#3A2A22"/>
+  <circle cx="160" cy="62" r="19" fill="#3A2A22"/>
+  <circle cx="196" cy="80" r="17" fill="#3A2A22"/>
+  <g stroke="#241A15" stroke-width="2.2" stroke-linecap="round" opacity="0.5">
+    <path d="M136 88c6-7 14-11 22-11"/>
+    <path d="M184 88c-5-6-12-10-19-11"/>
+  </g>
+
+  <!-- a thinking face -->
+  <circle cx="144" cy="122" r="3.2" fill="#2F2017"/>
+  <circle cx="176" cy="122" r="3.2" fill="#2F2017"/>
+  <path d="M153 139h14" stroke="#2F2017" stroke-width="2.6" stroke-linecap="round"/>
+  <ellipse cx="130" cy="133" rx="8" ry="5.5" fill="#9A5A3A" opacity="0.5"/>
+  <ellipse cx="190" cy="133" rx="8" ry="5.5" fill="#9A5A3A" opacity="0.5"/>
+
+  <!-- open hands, nothing to cook with -->
+  <path d="M94 266c-10-20-8-38 6-48" stroke="#C87E57" stroke-width="28" stroke-linecap="round"/>
+  <path d="M226 266c10-20 8-38-6-48" stroke="#C87E57" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="104" cy="214" r="14" fill="#BE7F52"/>
+  <circle cx="216" cy="214" r="14" fill="#BE7F52"/>
+</svg>
